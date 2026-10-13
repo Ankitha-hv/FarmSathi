@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "id": "irrigation-timing",
+      "topic": "irrigation",
+      "keywords_en": [
+        "irrigation", "water", "watering", "when to water", "how much water",
+        "dry soil", "moisture", "overwatering"
+      ],
+      "keywords_kn": [
+        "ನೀರಾವರಿ", "ನೀರು", "ನೀರು ಹಾಕುವುದು", "ಎಷ್ಟು ನೀರು", "ಮಣ್ಣು ಒಣಗಿದೆ"
+      ],
+      "title_en": "When and how much to irrigate",
+      "title_kn": "ಯಾವಾಗ ಮತ್ತು ಎಷ್ಟು ನೀರು ಹಾಕಬೇಕು",
+      "answer_en": "Water in the early morning or evening so less water is lost to heat. Check the soil 5–10 cm below the surface: if it feels dry, irrigate; if it is still moist, wait. Give enough water to wet the root zone, then allow a short dry period. Avoid standing water around the stem, which can cause root rot.",
+      "answer_kn": "ಬೆಳಗಿನ ಜಾವ ಅಥವಾ ಸಂಜೆ ನೀರು ಹಾಕಿ, ಆಗ ಬಿಸಿಲಿನಿಂದ ನೀರು ಕಡಿಮೆ ಆವಿಯಾಗುತ್ತದೆ. ಮಣ್ಣಿನ 5–10 ಸೆಂ.ಮೀ ಆಳದಲ್ಲಿ ತೇವ ಇದೆಯೇ ಎಂದು ನೋಡಿ. ಒಣಗಿದ್ದರೆ ನೀರು ಹಾಕಿ; ಇನ್ನೂ ತೇವವಿದ್ದರೆ ಕಾಯಿರಿ. ಬೇರಿನ ವಲಯ ತೇವವಾಗುವಷ್ಟು ನೀರು ಕೊಟ್ಟು, ನಂತರ ಸ್ವಲ್ಪ ಒಣಗಲು ಬಿಡಿ. ಗಿಡದ ಕಾಂಡದ ಸುತ್ತ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+      "source": "Curated from general ICAR / KVK field irrigation guidance"
+    },
+    {
+      "id": "drip-irrigation",
+      "topic": "irrigation",
+      "keywords_en": [
+        "drip", "drip irrigation", "micro irrigation", "save water", "pipe", "emitter"
+      ],
+      "keywords_kn": [
+        "ಹನಿ ನೀರಾವರಿ", "ಡ್ರಿಪ್", "ಸೂಕ್ಷ್ಮ ನೀರಾವರಿ", "ನೀರು ಉಳಿಸುವುದು"
+      ],
+      "title_en": "Drip irrigation for small farms",
+      "title_kn": "ಸಣ್ಣ ಹೊಲಗಳಿಗೆ ಹನಿ ನೀರಾವರಿ",
+      "answer_en": "Drip irrigation sends water slowly to the plant root zone through pipes and emitters. It usually uses less water than flood irrigation and keeps leaves drier, which can reduce some diseases. Keep emitters clean, check for leaks, and run the system on a regular schedule based on crop and soil type. Ask your local Krishi Vigyan Kendra (KVK) about subsidy schemes for micro-irrigation.",
+      "answer_kn": "ಹನಿ ನೀರಾವರಿಯಲ್ಲಿ ಪೈಪ್ ಮತ್ತು ಎಮಿಟರ್ ಮೂಲಕ ನೀರು ನಿಧಾನವಾಗಿ ಬೇರಿನ ಬಳಿ ಹೋಗುತ್ತದೆ. ಪ್ರವಾಹ ನೀರಾವರಿಗಿಂತ ಸಾಮಾನ್ಯವಾಗಿ ಕಡಿಮೆ ನೀರು ಬೇಕಾಗುತ್ತದೆ ಮತ್ತು ಎಲೆಗಳು ಒಣಗಿರುವುದರಿಂದ ಕೆಲವು ರೋಗಗಳು ಕಡಿಮೆಯಾಗಬಹುದು. ಎಮಿಟರ್‌ಗಳನ್ನು ಸ್ವಚ್ಛವಾಗಿಟ್ಟು, ಸೋರಿಕೆ ನೋಡಿ, ಬೆಳೆ ಮತ್ತು ಮಣ್ಣಿಗೆ ತಕ್ಕಂತೆ ನಿಯಮಿತವಾಗಿ ನಡೆಸಿ. ಸೂಕ್ಷ್ಮ ನೀರಾವರಿ ಸಬ್ಸಿಡಿ ಬಗ್ಗೆ ಸ್ಥಳೀಯ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ (KVK)ಯಲ್ಲಿ ಕೇಳಿ.",
+      "source": "Curated from PMKSY / micro-irrigation extension notes"
+    },
+    {
+      "id": "ragi-crop",
+      "topic": "crops",
+      "keywords_en": [
+        "ragi", "finger millet", "millet", "dry land", "kharif millet"
+      ],
+      "keywords_kn": [
+        "ರಾಗಿ", "ನಾಚಣಿ", "ಸಿರಿಧಾನ್ಯ", "ಮಡ್ಡಿ ಭೂಮಿ"
+      ],
+      "title_en": "Growing ragi (finger millet)",
+      "title_kn": "ರಾಗಿ ಬೆಳೆಸುವುದು",
+      "answer_en": "Ragi grows well in Karnataka’s rainfed and low-rainfall areas. Prepare a fine seedbed, sow with the onset of rains, and keep fields free of early weeds. It needs much less water than paddy. Use recommended seed rate and a balanced fertilizer dose based on soil test. Harvest when ears turn brown and grains are hard.",
+      "answer_kn": "ರಾಗಿ ಕರ್ನಾಟಕದ ಮಳೆಯಾಧಾರಿತ ಮತ್ತು ಕಡಿಮೆ ಮಳೆಯ ಪ್ರದೇಶಗಳಲ್ಲಿ ಚೆನ್ನಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಉತ್ತಮ ಬಿತ್ತನೆ ಹಾಸಿಗೆ ತಯಾರಿಸಿ, ಮಳೆ ಶುರುವಾದಾಗ ಬಿತ್ತಿ, ಆರಂಭದ ಕಳೆ ತೆಗೆಯಿರಿ. ಭತ್ತಕ್ಕಿಂತ ಬಹಳ ಕಡಿಮೆ ನೀರು ಸಾಕು. ಮಣ್ಣು ಪರೀಕ್ಷೆಗೆ ತಕ್ಕ ಬೀಜ ಪ್ರಮಾಣ ಮತ್ತು ಗೊಬ್ಬರ ಬಳಸಿ. ತೆನೆ ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಧಾನ್ಯ ಗಟ್ಟಿಯಾದಾಗ ಕಟಾವು ಮಾಡಿ.",
+      "source": "Curated from University of Agricultural Sciences (Karnataka) millet guidance"
+    },
+    {
+      "id": "paddy-crop",
+      "topic": "crops",
+      "keywords_en": [
+        "paddy", "rice", "rice field", "transplant", "nursery", "khadi", "standing water"
+      ],
+      "keywords_kn": [
+        "ಭತ್ತ", "ಅಕ್ಕಿ", "ನಾಟಿ", "ನರ್ಸರಿ", "ಗದ್ದೆ"
+      ],
+      "title_en": "Basic paddy (rice) care",
+      "title_kn": "ಭತ್ತದ ಮೂಲಭೂತ ಆರೈಕೆ",
+      "answer_en": "Raise a healthy nursery and transplant 20–25 day old seedlings in well-puddled soil. Maintain a thin layer of water after establishment; do not keep the field flooded all the time if alternate wetting and drying is advised in your area. Watch for stem borer and leaf folder. Use fertilizer in split doses. Follow local variety advice from the agriculture department or KVK.",
+      "answer_kn": "ಆರೋಗ್ಯಕರ ನರ್ಸರಿ ಬೆಳೆಸಿ, 20–25 ದಿನದ ಸಸಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಕದಡಿದ ಗದ್ದೆಗೆ ನಾಟಿ ಮಾಡಿ. ಸಸಿ ನಿಂತ ನಂತರ ತೆಳುವಾದ ನೀರಿನ ಪದರ ಇರಲಿ; ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ನೀರು ತುಂಬಿಡಬೇಡಿ, ನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ ಒದ್ದೆ-ಒಣ ವಿಧಾನ ಹೇಳಿದ್ದರೆ ಅದನ್ನು ಅನುಸರಿಸಿ. ಕಾಂಡ ಕೊರಕ ಮತ್ತು ಎಲೆ ಮಡಚುವ ಹುಳು ಗಮನಿಸಿ. ಗೊಬ್ಬರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ಹಾಕಿ. ತಳಿ ಆಯ್ಕೆಗೆ ಕೃಷಿ ಇಲಾಖೆ ಅಥವಾ KVK ಸಲಹೆ ಪಡೆಯಿರಿ.",
+      "source": "Curated from ICAR rice production practices (general)"
+    },
+    {
+      "id": "tomato-crop",
+      "topic": "crops",
+      "keywords_en": [
+        "tomato", "tamatar", "vegetable", "staking", "blossom", "fruit crack",
+        "water tomato", "tomato plants", "tomato watering"
+      ],
+      "keywords_kn": [
+        "ಟೊಮೆಟೊ", "ಟೊಮಾಟೊ", "ತಕ್ಕಾಳಿ", "ತರಕಾರಿ"
+      ],
+      "title_en": "Tomato crop basics",
+      "title_kn": "ಟೊಮೆಟೊ ಬೆಳೆಯ ಮೂಲ ಮಾಹಿತಿ",
+      "answer_en": "Grow tomato on well-drained soil with good sunlight. Stake plants so fruits do not touch wet soil. Water regularly but avoid wetting the leaves late in the day. Sudden heavy watering after a dry spell can crack fruits. Watch for leaf curl, fruit borer, and early blight. Remove badly diseased plants and ask a local agri officer before using any pesticide.",
+      "answer_kn": "ಚೆನ್ನಾಗಿ ನೀರು ಬಸಿದು ಹೋಗುವ, ಬಿಸಿಲಿರುವ ಜಾಗದಲ್ಲಿ ಟೊಮೆಟೊ ಬೆಳೆಯಿರಿ. ಗಿಡಕ್ಕೆ ಆಧಾರ ಕೊಟ್ಟು ಹಣ್ಣು ಒದ್ದೆ ಮಣ್ಣಿಗೆ ತಗಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ನಿಯಮಿತ ನೀರು ಹಾಕಿ, ಸಂಜೆ ಎಲೆಗಳಿಗೆ ನೀರು ಬೀಳದಂತೆ ಇರಿ. ಒಣಗಿದ ನಂತರ ಒಮ್ಮೆಗೆ ಹೆಚ್ಚು ನೀರು ಹಾಕಿದರೆ ಹಣ್ಣು ಬಿರಿಯಬಹುದು. ಎಲೆ ಸುತ್ತುವಿಕೆ, ಹಣ್ಣಿನ ಕೊರಕ ಮತ್ತು ಎಲೆ ಕಾಯಿಲೆ ಗಮನಿಸಿ. ತೀವ್ರ ರೋಗದ ಗಿಡ ತೆಗೆಯಿರಿ. ಯಾವುದೇ ಕೀಟನಾಶಕಕ್ಕೂ ಮೊದಲು ಸ್ಥಳೀಯ ಕೃಷಿ ಅಧಿಕಾರಿಯನ್ನು ಕೇಳಿ.",
+      "source": "Curated from ICAR / horticulture department vegetable notes"
+    },
+    {
+      "id": "maize-crop",
+      "topic": "crops",
+      "keywords_en": [
+        "maize", "corn", "sweet corn", "cob", "fall armyworm"
+      ],
+      "keywords_kn": [
+        "ಜೋಳ", "ಮೆಕ್ಕೆಜೋಳ", "ಮುಸುಕಿನ ಜೋಳ"
+      ],
+      "title_en": "Maize (corn) growing tips",
+      "title_kn": "ಜೋಳ ಬೆಳೆಯ ಸಲಹೆಗಳು",
+      "answer_en": "Sow maize in rows with enough space for sunlight and air. It needs moisture at sowing, knee-high stage, tasseling, and grain filling. Do not let water stagnate. Fall armyworm can damage young plants—check the whorl (center leaves) often. Use certified seed and follow the spacing recommended for your variety.",
+      "answer_kn": "ಜೋಳವನ್ನು ಸಾಲುಗಳಲ್ಲಿ, ಬಿಸಿಲು ಮತ್ತು ಗಾಳಿ ಸಾಕಾಗುವಂತೆ ಬಿತ್ತಿ. ಬಿತ್ತನೆ, ಮೊಣಕಾಲು ಎತ್ತರ, ಹೂ ಬಿಡುವಾಗ ಮತ್ತು ಧಾನ್ಯ ತುಂಬುವಾಗ ತೇವ ಅಗತ್ಯ. ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ ಸಣ್ಣ ಗಿಡಗಳನ್ನು ಹಾಳುಮಾಡಬಹುದು—ಮಧ್ಯದ ಎಲೆಗಳನ್ನು ಆಗಾಗ್ಗೆ ನೋಡಿ. ಪ್ರಮಾಣೀಕೃತ ಬೀಜ ಬಳಸಿ, ತಳಿಗೆ ತಕ್ಕ ಅಂತರ ಇರಿಸಿ.",
+      "source": "Curated from ICAR maize agronomy guidance"
+    },
+    {
+      "id": "aphids-pest",
+      "topic": "pests",
+      "keywords_en": [
+        "aphid", "aphids", "green fly", "sticky leaves", "honeydew", "curl leaves"
+      ],
+      "keywords_kn": [
+        "ಅಫಿಡ್", "ಹೇನು", "ಸುಳಿ ಹೇನು", "ಅಂಟು ಎಲೆ", "ಎಲೆ ಸುತ್ತುವುದು"
+      ],
+      "title_en": "Aphids on crops",
+      "title_kn": "ಬೆಳೆಗಳ ಮೇಲೆ ಅಫಿಡ್ (ಹೇನು)",
+      "answer_en": "Aphids are small soft insects that cluster on young shoots and the underside of leaves. They suck sap, cause curling, and leave sticky honeydew. First, spray a strong jet of water or use a mild soap solution on a few plants to test. Encourage ladybird beetles. If the attack is heavy, consult your local agri officer or KVK before choosing a pesticide, and never mix unknown chemicals.",
+      "answer_kn": "ಅಫಿಡ್‌ಗಳು ಸಣ್ಣ ಮೃದು ಕೀಟಗಳು. ಹೊಸ ಚಿಗುರು ಮತ್ತು ಎಲೆಯ ಅಡಿಯಲ್ಲಿ ಗುಂಪು ಸೇರುತ್ತವೆ, ರಸ ಹೀರಿ ಎಲೆ ಸುತ್ತಿಸುತ್ತವೆ ಮತ್ತು ಅಂಟು ಬಿಡುತ್ತವೆ. ಮೊದಲು ನೀರಿನ ಒತ್ತಡದ ಸಿಂಪಡಣೆ ಅಥವಾ ಸ್ವಲ್ಪ ಸಾಬೂನು ನೀರನ್ನು ಕೆಲವು ಗಿಡಗಳ ಮೇಲೆ ಪರೀಕ್ಷಿಸಿ. ಲೇಡಿಬರ್ಡ್ ಚಿಟ್ಟೆಗಳನ್ನು ಉಳಿಸಿ. ಹೆಚ್ಚು ಹಾನಿಯಾದರೆ ಕೀಟನಾಶಕ ಆಯ್ಕೆಗೆ ಮೊದಲು ಕೃಷಿ ಅಧಿಕಾರಿ ಅಥವಾ KVK ಸಲಹೆ ಪಡೆಯಿರಿ. ಗೊತ್ತಿಲ್ಲದ ರಾಸಾಯನಿಕಗಳನ್ನು ಮಿಶ್ರಣ ಮಾಡಬೇಡಿ.",
+      "source": "Curated from NCIPM / IPM pest management notes"
+    },
+    {
+      "id": "stem-borer",
+      "topic": "pests",
+      "keywords_en": [
+        "stem borer", "dead heart", "white ear", "borer", "paddy pest", "hole in stem"
+      ],
+      "keywords_kn": [
+        "ಕಾಂಡ ಕೊರಕ", "ಡೆಡ್ ಹಾರ್ಟ್", "ಬಿಳಿ ತೆನೆ", "ಕೊರಕ ಹುಳು"
+      ],
+      "title_en": "Stem borer in paddy and millets",
+      "title_kn": "ಭತ್ತ ಮತ್ತು ಸಿರಿಧಾನ್ಯದಲ್ಲಿ ಕಾಂಡ ಕೊರಕ",
+      "answer_en": "Stem borer larvae tunnel inside the stem. Young plants may show a dead, dried central shoot (dead heart). Later, empty white ears can appear. Remove and destroy badly infested tillers. Avoid very late planting if possible. Use light traps in the evening to watch moths. For chemical control, follow only locally recommended products and doses from the agriculture department.",
+      "answer_kn": "ಕಾಂಡ ಕೊರಕದ ಲಾರ್ವಾ ಕಾಂಡದ ಒಳಗೆ ಸುರಂಗ ಮಾಡುತ್ತದೆ. ಸಣ್ಣ ಗಿಡದಲ್ಲಿ ನಡು ಚಿಗುರು ಒಣಗಬಹುದು (ಡೆಡ್ ಹಾರ್ಟ್). ನಂತರ ಬಿಳಿ ಖಾಲಿ ತೆನೆ ಕಾಣಿಸಬಹುದು. ತೀವ್ರವಾಗಿ ಹಾನಿಯಾದ ಕಾಂಡಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ. ಸಾಧ್ಯವಾದಷ್ಟು ತಡವಾಗಿ ನಾಟಿ ಮಾಡಬೇಡಿ. ಸಂಜೆ ದೀಪ ಬಲೆ ಇಟ್ಟು ಪತಂಗ ಗಮನಿಸಿ. ರಾಸಾಯನಿಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಕೃಷಿ ಇಲಾಖೆ ಹೇಳಿದ ಔಷಧ ಮತ್ತು ಪ್ರಮಾಣವನ್ನಷ್ಟೇ ಬಳಸಿ.",
+      "source": "Curated from IRRI / ICAR rice pest IPM notes"
+    },
+    {
+      "id": "general-pests",
+      "topic": "pests",
+      "keywords_en": [
+        "pest", "insect", "bug", "worm", "spray", "pesticide", "disease", "leaf spot", "fungus"
+      ],
+      "keywords_kn": [
+        "ಕೀಟ", "ಹುಳು", "ರೋಗ", "ಸಿಂಪಡಣೆ", "ಕೀಟನಾಶಕ", "ಶಿಲೀಂಧ್ರ", "ಎಲೆ ಚುಕ್ಕೆ"
+      ],
+      "title_en": "Safe first steps for pests and diseases",
+      "title_kn": "ಕೀಟ ಮತ್ತು ರೋಗಗಳಿಗೆ ಸುರಕ್ಷಿತ ಮೊದಲ ಹಂತಗಳು",
+      "answer_en": "Identify the problem before spraying. Collect a sample of the damaged leaf or insect in a clear bag and show it at the nearest Raitha Samparka Kendra or KVK. Prefer cultural methods first: remove infected parts, keep the field clean, and avoid extra nitrogen which can increase some pests. Do not use leftover mixed sprays. Wear protection if a recommended pesticide is advised.",
+      "answer_kn": "ಸಿಂಪಡಣೆ ಮಾಡುವ ಮೊದಲು ಸಮಸ್ಯೆ ಗುರುತಿಸಿ. ಹಾನಿಯಾದ ಎಲೆ ಅಥವಾ ಕೀಟವನ್ನು ಪಾರದರ್ಶಕ ಚೀಲದಲ್ಲಿ ತೆಗೆದುಕೊಂಡು ಹತ್ತಿರದ ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರ ಅಥವಾ KVKಗೆ ತೋರಿಸಿ. ಮೊದಲು ಕೃಷಿ ಕ್ರಮಗಳು: ರೋಗದ ಭಾಗ ತೆಗೆಯಿರಿ, ಹೊಲ ಸ್ವಚ್ಛವಿರಲಿ, ಅಗತ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಾರಜನಕ ಹಾಕಬೇಡಿ. ಉಳಿದ ಮಿಶ್ರ ದ್ರಾವಣವನ್ನು ಬಳಸಬೇಡಿ. ಶಿಫಾರಸು ಮಾಡಿದ ಕೀಟನಾಶಕ ಬಳಸುವಾಗ ರಕ್ಷಣಾ ಸಾಧನ ಧರಿಸಿ.",
+      "source": "Curated from NCIPM integrated pest management principles"
+    },
+    {
+      "id": "soil-fertilizer",
+      "topic": "crops",
+      "keywords_en": [
+        "soil", "fertilizer", "manure", "urea", "compost", "dap", "nutrient", "soil test"
+      ],
+      "keywords_kn": [
+        "ಮಣ್ಣು", "ಗೊಬ್ಬರ", "ಯೂರಿಯಾ", "ಒಣಗೊಬ್ಬರ", "ಕಾಂಪೋಸ್ಟ್", "ಮಣ್ಣು ಪರೀಕ್ಷೆ"
+      ],
+      "title_en": "Soil and fertilizer basics",
+      "title_kn": "ಮಣ್ಣು ಮತ್ತು ಗೊಬ್ಬರದ ಮೂಲ ಮಾಹಿತಿ",
+      "answer_en": "Get a soil test at least once in two years from a soil testing lab or KVK. Add farmyard manure or compost to improve soil health. Apply fertilizer based on the test, not by guess. Excess urea can make plants leafy but weak against pests. Keep fertilizer a little away from the stem and water after application unless the label says otherwise.",
+      "answer_kn": "ಎರಡು ವರ್ಷಕ್ಕೊಮ್ಮೆಯಾದರೂ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸಿ. ಮಣ್ಣಿನ ಆರೋಗ್ಯಕ್ಕೆ ಜೈವಿಕ ಗೊಬ್ಬರ ಅಥವಾ ಕಾಂಪೋಸ್ಟ್ ಹಾಕಿ. ಊಹೆಯಿಂದಲ್ಲ, ಪರೀಕ್ಷೆಗೆ ತಕ್ಕಂತೆ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸಿ. ಹೆಚ್ಚು ಯೂರಿಯಾದಿಂದ ಗಿಡ ಎಲೆಮಯವಾಗಬಹುದು ಆದರೆ ಕೀಟಕ್ಕೆ ದುರ್ಬಲವಾಗಬಹುದು. ಗೊಬ್ಬರವನ್ನು ಕಾಂಡದಿಂದ ಸ್ವಲ್ಪ ದೂರ ಹಾಕಿ, ಸೂಚನೆ ಬೇರೆ ಇಲ್ಲದಿದ್ದರೆ ನಂತರ ನೀರು ಕೊಡಿ.",
+      "source": "Curated from IISS / soil health card programme guidance"
+    }
+  ]
+}
